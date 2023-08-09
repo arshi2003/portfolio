@@ -1,0 +1,26 @@
+/*Hire Me*/
+.hireme {
+    margin:40px;
+    height:100px;
+    width: 250px;
+    background-color: gray;
+    border-radius: 10px;
+    position: relative;
+    
+}
+.hireme img {
+    margin: 10px;
+    border-radius: 10px;
+    height: 300px;
+    width: 220px;
+
+}
+.hiretext {
+    position:absolute;
+    top:8px;
+    left: 150;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    background-color: brown;
+}
